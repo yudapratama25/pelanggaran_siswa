@@ -1,2 +1,0 @@
-# pelanggaran_siswa
-APLIKASI PELANGGARAN SISWA
